@@ -1,6 +1,6 @@
 {
-  "name": "Warms - Phase 1",
-  "short_name": "Warms",
+  "name": "Wriggle War",
+  "short_name": "Wriggle War",
   "description": "A from-scratch turn-based artillery game.",
   "start_url": "./",
   "scope": "./",

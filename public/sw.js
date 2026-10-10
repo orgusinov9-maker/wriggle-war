@@ -1,7 +1,7 @@
 // Minimal offline cache: the app shell only (the JS/CSS/HTML Vite builds).
 // The map, sound and sprites are all generated in code, so there is nothing
 // else to cache - a fresh build just bumps CACHE_NAME to invalidate the old one.
-const CACHE_NAME = 'warms-shell-v1';
+const CACHE_NAME = 'wriggle-shell-v2';
 const SHELL = ['./', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
